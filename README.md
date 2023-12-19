@@ -1,4 +1,6 @@
-#TODO App
+TODO App
+
+
 This is a simple TODO app created using HTML, CSS, and JavaScript. The app allows users to add, delete, and mark tasks as completed. Tasks are stored in the local storage for persistence.
 
 Features
